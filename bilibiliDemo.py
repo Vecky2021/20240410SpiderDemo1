@@ -4,6 +4,7 @@ import json
 import subprocess
 import os
 
+# 爬取bilibili视频
 myUrl = 'https://www.bilibili.com/video/BV14j411e7jT/?vd_source=16ab63714a9bd7bed91b48e73aa05e7d'
 
 myHeaders = {
